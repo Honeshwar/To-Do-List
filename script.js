@@ -1,5 +1,4 @@
-document.ready(function(){
-  
+
 //using IIFE
 var ToDOListApp = (function (){
 
@@ -173,5 +172,3 @@ return {
     i:i,
 }
 })();
-
-}
